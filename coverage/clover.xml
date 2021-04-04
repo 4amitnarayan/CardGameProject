@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1617553795161" clover="3.2.0">
+  <project timestamp="1617553795161" name="All files">
+    <metrics statements="56" coveredstatements="56" conditionals="23" coveredconditionals="23" methods="16" coveredmethods="16" elements="95" coveredelements="95" complexity="0" loc="56" ncloc="56" packages="2" files="4" classes="4"/>
+    <package name="reducers.CardReducer">
+      <metrics statements="14" coveredstatements="14" conditionals="5" coveredconditionals="5" methods="4" coveredmethods="4"/>
+      <file name="actions.ts" path="/Users/amitkumar/Desktop/CardGameProject/src/reducers/CardReducer/actions.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/amitkumar/Desktop/CardGameProject/src/reducers/CardReducer/index.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="8" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="42" coveredstatements="42" conditionals="18" coveredconditionals="18" methods="12" coveredmethods="12"/>
+      <file name="Card.ts" path="/Users/amitkumar/Desktop/CardGameProject/src/utils/Card.ts">
+        <metrics statements="24" coveredstatements="24" conditionals="18" coveredconditionals="18" methods="9" coveredmethods="9"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="8" count="8" type="stmt"/>
+        <line num="9" count="56" type="stmt"/>
+        <line num="15" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="27" count="8" type="stmt"/>
+        <line num="30" count="26" type="stmt"/>
+        <line num="42" count="3" type="stmt"/>
+        <line num="43" count="5" type="stmt"/>
+        <line num="44" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="45" count="5" type="stmt"/>
+        <line num="46" count="5" type="stmt"/>
+        <line num="50" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="51" count="3" type="stmt"/>
+        <line num="52" count="16" type="cond" truecount="3" falsecount="0"/>
+        <line num="53" count="16" type="stmt"/>
+        <line num="59" count="3" type="stmt"/>
+        <line num="61" count="3" type="stmt"/>
+        <line num="62" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="70" count="5" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/amitkumar/Desktop/CardGameProject/src/utils/index.ts">
+        <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="35" type="stmt"/>
+        <line num="3" count="35" type="stmt"/>
+        <line num="4" count="35" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="9" type="stmt"/>
+        <line num="9" count="9" type="stmt"/>
+        <line num="10" count="32" type="stmt"/>
+        <line num="11" count="32" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="14" count="32" type="stmt"/>
+        <line num="16" count="9" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="20" count="9" type="stmt"/>
+        <line num="21" count="9" type="stmt"/>
+        <line num="22" count="51" type="stmt"/>
+        <line num="23" count="51" type="stmt"/>
+        <line num="25" count="9" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
